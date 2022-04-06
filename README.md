@@ -19,18 +19,18 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-171722?style=for-the-badge&logo=github)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-DF6D17?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-05200F?style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
+![Mac OS](https://img.shields.io/badge/mac%20os-171717?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
 
 <br />
 
 ### 👨‍💻 &nbsp;Worked with
 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![cypress](https://img.shields.io/badge/-cypress-E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Storybook](https://img.shields.io/badge/-Storybook-000000?style=for-the-badge&logo=storybook&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
