@@ -1,4 +1,4 @@
-## Hi, I'm Ogi 👋 a software developer focused on Web apps.
+## Hi, I'm Ogi 👋
 
 <br />
 
