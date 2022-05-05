@@ -2,12 +2,12 @@
 
 <br />
 
-💡 &nbsp;A [pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) that enjoys rolling out new features or refactoring exisitng ones.\
+💡 &nbsp;A [pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)\
 👨‍💻 &nbsp;Working @ [Bitmovin](https://bitmovin.com/)\
 🌱 &nbsp;Learning something new about 💻 every day.\
 🏹 &nbsp;In my free time, I 🚴, 🏃 or 📖\
 🎓 &nbsp;Graduated Computer Science and Mathematics.\
-📪 &nbsp;Feel free to reach out to me if you have any questions, a meme worth sharing or just for some interesting discussion.\
+📪 &nbsp;Feel free to reach out to me if you have any questions, or a meme worth sharing.\
 🔬 &nbsp;Take a look at my [Resume](https://www.ognjenbostjancic.com/ognjen-bostjancic-cv.pdf) for more details. 
 
 <br />
