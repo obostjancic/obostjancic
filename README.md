@@ -3,7 +3,7 @@
 <br />
 
 💡 &nbsp;A [pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)\
-👨‍💻 &nbsp;Working @ [Bitmovin](https://bitmovin.com/)\
+👨‍💻 &nbsp;Working @ [Sentry](https://sentry.io/)\
 🌱 &nbsp;Learning something new about 💻 every day.\
 🏹 &nbsp;In my free time, I 🚴, 🏃 or 📖\
 🎓 &nbsp;Graduated Computer Science and Mathematics.\
